@@ -1,6 +1,7 @@
 #[macro_use]
 extern crate rocket;
 
+mod consts;
 mod handlers;
 mod models;
 
