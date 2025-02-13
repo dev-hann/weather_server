@@ -15,12 +15,12 @@ impl Claims {
             + 3600; // 1 hour
         Claims { user_id, exp }
     }
-    pub fn to_token(&self) -> String {
+    pub fn to_token(&self, secret_key: &str) -> String {
         let header = Header::default();
         let token = encode(
             &header,
             &self,
-            &EncodingKey::from_secret(crate::consts::SECRETKEY.as_ref()),
+            &EncodingKey::from_secret(secret_key.as_ref()),
         )
         .unwrap();
         token

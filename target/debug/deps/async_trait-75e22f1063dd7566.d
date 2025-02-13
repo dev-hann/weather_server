@@ -1,0 +1,12 @@
+/home/hann/Documents/rust_weather_server/target/debug/deps/libasync_trait-75e22f1063dd7566.so: /home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/lib.rs /home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/args.rs /home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/bound.rs /home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/expand.rs /home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/lifetime.rs /home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/parse.rs /home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/receiver.rs /home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/verbatim.rs
+
+/home/hann/Documents/rust_weather_server/target/debug/deps/async_trait-75e22f1063dd7566.d: /home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/lib.rs /home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/args.rs /home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/bound.rs /home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/expand.rs /home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/lifetime.rs /home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/parse.rs /home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/receiver.rs /home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/verbatim.rs
+
+/home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/lib.rs:
+/home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/args.rs:
+/home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/bound.rs:
+/home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/expand.rs:
+/home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/lifetime.rs:
+/home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/parse.rs:
+/home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/receiver.rs:
+/home/hann/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/verbatim.rs:
